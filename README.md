@@ -1,4 +1,9 @@
-# Labbgrund till Moment 4 i kursen DT084G, Introdktion till programmering i JavaScript
-Använd dessa filer som grund till din laboration.
+# Moment 4, Javascript
 
-OBS: Uppdatera texten i denna README-fil så att den beskriver din labb, samt inkludera ditt namn och student-id.
+I moment 4 är uppgiften att konstruera en "att-göra-lista" där vi fått färdig HTML- och CSS-kod,
+
+till vilken vi skulle göra egen JavaScript-kod.
+
+### Namn, skol-id
+
+Emma Ådahl Görling, emad2301
